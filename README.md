@@ -23,9 +23,9 @@ We develop a panel fixed effect model with instrumental variables to analyze how
 # Results
 
 ## TFP Growth
-Rule of law index, inflation rate, and life expectancy negatively correlate with the TFP growth over the recent period 2000-2014. Female years of schooling is significantly positively correlated with the TFP growth under the panel fixed effects model. The statistical significance drops under the IV estimation partly due to a higher variance of the IV estimator, while the positive correlation between female years of schooling and the TFP growth increases under IV estimation. Also, student assessment test score positively correlates with the TFP growth under the smaller sample of less developed countries from 2000 to 2010. One standard deviation increase in assessment test score relates with 5.01 percent increase in the TFP growth.
+Rule of law index, inflation rate, and life expectancy negatively correlate with the TFP growth over the recent period 2000-2014. Female years of schooling is significantly positively correlated with the TFP growth under the panel fixed effects model. The statistical significance drops under the IV estimation partly due to a higher variance of the IV estimator, while the positive correlation between female years of schooling and the TFP growth increases under IV estimation. Also, student assessment test score positively correlates with the TFP growth under the smaller sample of more developed countries from 2000 to 2010. One standard deviation increase in assessment test score relates with 5.01 percent increase in the TFP growth.
  
 ## GDP Growth
-Democracy index and inflation rate negatively correlates with the GDP growth over the recent period 2000-2014. GDP per capita and government consumption ratio are not significantly correlatedwith the GDP growth under the full sample. However, they become negatively correlated with the GDP growth when we drop the period 2010-2014 and less developed countries foranalysis. 
+Democracy index and inflation rate negatively correlates with the GDP growth over the recent period 2000-2014. GDP per capita and government consumption ratio are not significantly correlated with the GDP growth under the full sample. However, they become negatively correlated with the GDP growth when we drop the period 2010-2014 and less developed countries for analysis. 
 
 
