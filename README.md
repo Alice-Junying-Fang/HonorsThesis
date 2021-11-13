@@ -1,6 +1,4 @@
-# Undergraduate Honors Thesis
-Cross-country Growth Regressions to Investigate TFP Growth and GDP Growth
-
+# Cross-country Growth Regressions to Investigate TFP Growth and GDP Growth
 <details>
 <summary><strong><em>Table of Contents</em></strong></summary>
 
