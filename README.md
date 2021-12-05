@@ -1,4 +1,4 @@
-# Cross-country Growth Regressions to Investigate TFP Growth and GDP Growth
+#v
 <details>
 <summary><strong><em>Table of Contents</em></strong></summary>
 
