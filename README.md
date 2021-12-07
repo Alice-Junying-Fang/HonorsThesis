@@ -1,4 +1,3 @@
-#v
 <details>
 <summary><strong><em>Table of Contents</em></strong></summary>
 
