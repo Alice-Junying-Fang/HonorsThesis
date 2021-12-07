@@ -14,7 +14,7 @@
 # Overview
 
 ## New Data Source
-We create a new dataset of educational quality to measure human capital for countries of broader growth experiences by applying a nonlinear optimization model. We also use data on voice and accountability index and rule of law index to measure democracy and law enforcement respectively. By exploiting these new data sources, we study how new factors including female human capital, law enforcement, and democracy affect GDP growth and TFP growth by controlling the effects of macroeconomic factors such as inflation rate and demographic factors such as fertility rate.
+We create a new dataset of educational quality to measure human capital for countries of broader growth experience by applying a nonlinear optimization model. We also use data on voice and accountability index and rule of law index to measure democracy and law enforcement respectively. By exploiting these new data sources, we study how new factors including female human capital, law enforcement, and democracy affect GDP growth and TFP growth by controlling the effects of macroeconomic factors such as inflation rate and demographic factors such as fertility rate.
 
 ## Methodology
 To estimate the effects of the factors on GDP growth and TFP growth, we use cross-country regressions with period fixed effects as the baseline model. This fixed effects model allows us to compare changes in the growth outcomes of different countries within each period and thus control for variables varying over periods. We augment the fixed effects model with the instrumental variables method to consider the endogeneity of female years of schooling.
